@@ -32,6 +32,8 @@ Tap on a Pokemon in the list to view its details on the Details screen. Here, yo
 
 The app is built using the Model-View-ViewModel (MVVM) architecture pattern. Here's a brief overview of the different layers:
 
-## Model: The data layer that represents the app's data and business logic. In this app, the models are the Pokemon and PokemonType structs.
+## Model 
+
+The data layer that represents the app's data and business logic. In this app, the models are the Pokemon and PokemonType structs.
 View: The UI layer that displays the data to the user and handles user input. In this app, the views are implemented using SwiftUI.
 ViewModel: The glue layer that connects the view and the model. The view model handles the business logic and provides the data to the view. 
